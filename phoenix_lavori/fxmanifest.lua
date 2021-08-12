@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'lilfraae'
 description 'phoenix_lavori Modern and Responsive way to non-whitelisted jobs!'
-version '1.0.0'
+version '1.1'
 
 server_scripts {
     'server/jobs/*.lua',
