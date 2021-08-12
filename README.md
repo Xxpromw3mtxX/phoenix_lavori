@@ -22,7 +22,7 @@ A new way to create jobs in your RP server.
 ## Download & Installation
 1. Download Master or Release & Extract the .zip or Open the .zip.
 2. Edit the `config.lua` before starting the script.
-3. Import the included `phoenix_lavori.sql` file included.
+3. Import, if included,the `sql` file.
 4. Add `ensure phoenix_lavori` to your server.cfg.
 7. You're set!
 8. **Do not change the name or it will not work.**
